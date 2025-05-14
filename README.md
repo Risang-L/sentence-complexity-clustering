@@ -37,7 +37,6 @@ All steps were implemented manually in Python without external linguistic toolki
 ## Data
 
 This project uses L2 essays from the [ICNALE corpus](https://language.sakura.ne.jp/icnale/), a publicly available collection of English essays written by second language users.  
-ICNALE is widely used in research on L2 writing and corpora.
 
 **Note:**  
 The ICNALE dataset is **not included** in this repository due to licensing restrictions.  
