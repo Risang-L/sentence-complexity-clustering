@@ -49,8 +49,9 @@ Once obtained, place the dataset files in `data/raw/` as described in `data/raw/
 ## Results
 
 Two main visualizations were created:
-1. **PCA 2D Scatter Plot**
-2. **t-SNE 2D Scatter Plot**
+1. ![PCA Plot](outputs/figures/pca_plot.png)
+2. ![t-SNE Plot](outputs/figures/tsne_plot.png)  
+   
 
 Both plots show distinct sentence clusters that broadly reflect sentence complexity differences.
 
