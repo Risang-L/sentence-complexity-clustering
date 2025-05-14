@@ -49,7 +49,14 @@ Once obtained, place the dataset files in `data/raw/` as described in `data/raw/
 
 Two main visualizations were created:
 1. ![PCA Plot](outputs/figures/pca_plot.png)
+The PCA plot shows the global structure of sentence complexity clusters across two principal components.  
+A large distinct yellow cluster (Cluster 4) represents sentences that differ greatly (likely longer or more complex sentences), while a dense purple core (Cluster 0) suggests short or simple sentence structures.
+
+
 2. ![t-SNE Plot](outputs/figures/tsne_plot.png)  
+The t-SNE plot focuses on local structure and reveals tighter, well-separated neighborhood clusters.  
+Distinct shapes and densities suggest subtle syntactic and lexical variation across learner sentence groups.
+
    
 
 Both plots show distinct sentence clusters that broadly reflect sentence complexity differences.
