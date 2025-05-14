@@ -57,10 +57,4 @@ A large distinct yellow cluster (Cluster 4) represents sentences that differ gre
 The t-SNE plot focuses on local structure and reveals tighter, well-separated neighborhood clusters.  
 Distinct shapes and densities suggest subtle syntactic and lexical variation across learner sentence groups.
 
-   
-
-Both plots show distinct sentence clusters that broadly reflect sentence complexity differences.
-
-You can find these plots in `outputs/figures/`.
-
 ---
