@@ -1,0 +1,11 @@
+# Core libraries
+pandas>=2.0.0
+numpy>=1.25.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+spacy>=3.7.0
+tqdm>=4.66.0
+
+# Notebook environment (optional)
+jupyterlab>=4.0.0
