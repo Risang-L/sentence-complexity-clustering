@@ -1,4 +1,4 @@
-# Sentence Complexity Clustering on Learner Texts
+# Sentence Complexity Clustering on L2 Texts
 
 This project explores unsupervised clustering of L2-written sentences based on syntactic and lexical complexity features.  
 The goal is to discover sentence-level writing patterns across proficiency levels using clustering and visualization techniques.
