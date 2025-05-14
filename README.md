@@ -59,13 +59,3 @@ Distinct shapes and densities suggest subtle syntactic and lexical variation acr
 
 ---
 
-### 📝 Cluster Descriptions
-
-| Cluster | Description | Example Sentence Type |
-|--------:|-------------|-----------------------|
-| 0 | Short, simple sentences with high verb ratio and low noun content. | "I agree." / "I like it." |
-| 1 | Moderate-length sentences with dense noun usage and formal structures. | "College life has many challenges." |
-| 2 | Medium-long sentences mixing simple and compound structures. | "I think part-time jobs help students because they gain experience." |
-| 3 | Short sentences with high adjective use; descriptive or comparative style. | "It is a big, beautiful, old building." |
-| 4 | Very long, complex multi-clause sentences with hedging or argumentation. | "Although some argue that students should focus only on study, I believe part-time work helps them develop essential skills." |
-
