@@ -1,13 +1,13 @@
 # Sentence Complexity Clustering on Learner Texts
 
-This project explores unsupervised clustering of learner-written sentences based on syntactic and lexical complexity features.  
+This project explores unsupervised clustering of L2-written sentences based on syntactic and lexical complexity features.  
 The goal is to discover sentence-level writing patterns across proficiency levels using clustering and visualization techniques.
 
 ---
 
 ## Project Motivation
 
-This work was developed as part of a personal NLP research portfolio to showcase data preprocessing, feature engineering, and unsupervised learning skills on real-world learner language data.  
+This work was developed as part of a personal NLP research portfolio to showcase data preprocessing, feature engineering, and unsupervised learning skills on real-world L2 language data.  
 The project builds on previous research into syntactic complexity in second language writing.
 
 ---
@@ -36,8 +36,8 @@ All steps were implemented manually in Python without external linguistic toolki
 
 ## Data
 
-This project uses learner essays from the [ICNALE corpus](https://language.sakura.ne.jp/icnale/), a publicly available collection of English essays written by second language learners.  
-ICNALE is widely used in research on L2 writing and learner corpora.
+This project uses L2 essays from the [ICNALE corpus](https://language.sakura.ne.jp/icnale/), a publicly available collection of English essays written by second language users.  
+ICNALE is widely used in research on L2 writing and corpora.
 
 **Note:**  
 The ICNALE dataset is **not included** in this repository due to licensing restrictions.  
